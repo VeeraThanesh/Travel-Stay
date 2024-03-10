@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Travel-Stay/static/css/main.edc0eb00.css",
+    "main.js": "/Travel-Stay/static/js/main.909ec6aa.js",
+    "static/media/offer3.jpg": "/Travel-Stay/static/media/offer3.b6a45f7309d4908a1ee9.jpg",
+    "static/media/blog3.jpg": "/Travel-Stay/static/media/blog3.db8fb1b2a9ed131ee3de.jpg",
+    "static/media/popular3.jpg": "/Travel-Stay/static/media/popular3.1c5c7863219e92d84954.jpg",
+    "static/media/popular2.jpg": "/Travel-Stay/static/media/popular2.b78231ca4632c76a67b4.jpg",
+    "static/media/popular1.jpg": "/Travel-Stay/static/media/popular1.f0eafa62eaec90cb2b18.jpg",
+    "static/media/bg_img.jpg": "/Travel-Stay/static/media/bg_img.96f657160cf4b477b7b6.jpg",
+    "static/media/video.mp4": "/Travel-Stay/static/media/video.c6177f2e6d2f22152af4.mp4",
+    "static/media/offer1.jpg": "/Travel-Stay/static/media/offer1.ca26c77e7f0be6fd3d9e.jpg",
+    "static/media/offer2.jpg": "/Travel-Stay/static/media/offer2.a89dc99e88213e140f54.jpg",
+    "static/media/popular4.jpg": "/Travel-Stay/static/media/popular4.26904b1b79a6bcfbfb43.jpg",
+    "static/media/newspaper.jpg": "/Travel-Stay/static/media/newspaper.2933c9b33a49d7b9dbe7.jpg",
+    "static/media/blog1.jpg": "/Travel-Stay/static/media/blog1.3f9f553bb6b9d4e8b57e.jpg",
+    "static/media/blog4.jpg": "/Travel-Stay/static/media/blog4.cf288588693e3c5c1e83.jpg",
+    "static/media/blog2.jpg": "/Travel-Stay/static/media/blog2.c1646c3cd6f41b2af387.jpg",
+    "static/media/mountain.png": "/Travel-Stay/static/media/mountain.7daeda6aeb091c8d5dc7.png",
+    "static/media/hiking.png": "/Travel-Stay/static/media/hiking.8be14d1039880a0e1d14.png",
+    "static/media/customer.png": "/Travel-Stay/static/media/customer.a585a0163c38c5081e51.png",
+    "index.html": "/Travel-Stay/index.html",
+    "main.edc0eb00.css.map": "/Travel-Stay/static/css/main.edc0eb00.css.map",
+    "main.909ec6aa.js.map": "/Travel-Stay/static/js/main.909ec6aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc0eb00.css",
+    "static/js/main.909ec6aa.js"
+  ]
+}
